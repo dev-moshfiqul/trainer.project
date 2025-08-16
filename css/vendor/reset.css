@@ -1,0 +1,5 @@
+
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid mixin \"============================ */\".\A         on line 3 of E:\project\00-prototipe\insure\PREVIEW\sass\reset.sass\A \A 1: /* ==========================\A 2: RESET\A 3: ============================= */\A 4: /**\A 5:  * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)\A 6:  * http://cssreset.com\A 7:  */\A 8: html, body, div, span, applet, object, iframe,"; }
